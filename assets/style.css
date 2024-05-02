@@ -434,6 +434,10 @@ textarea {
     max-width: 1462px;
 }
 
+.vila-featured-post h2 a {
+    text-decoration: none;
+}
+
 
 .row-articles .block-column {
     width: 100%;
@@ -592,6 +596,10 @@ textarea {
 
 
 /* vila footer */
+
+.even {
+    justify-content: space-between;
+}
 .vila-footer-info {
     padding: 2em 0;
     background-color: #eee;
